@@ -6,7 +6,7 @@ public class pruebagit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println ("Modificacion");
+		System.out.println ("Modificacion bfbfgdfg");
 	}
 
 }
